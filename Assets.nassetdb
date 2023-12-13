@@ -75,6 +75,10 @@
             "8fa3eb0f-44a0-87c2-1d59-142ad5d7fca1"
         ]
     },
+    "2d36278a-391e-a121-a373-0f44d6d5397d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Block_Breaker.scene.nasset/Hex Floor.mesh.nasset/Thumbnails/Hex Floor.mesh.nasset.tex.nasset"
+    },
     "378a4092-2735-da6d-d6d5-f55f3e14898f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Purple.mtli.nasset.tex.nasset"
@@ -204,6 +208,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Block_Breaker.scene.nasset/Hex Floor.mesh.nasset/Hex Floor.mesh.nasset",
+        "thumbnail": "2d36278a-391e-a121-a373-0f44d6d5397d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
